@@ -1,0 +1,23 @@
+{
+  "name": "norm-a-savage",
+  "version": "0.1.0",
+  "homepage": "http://normasavage.com/",
+  "authors": [
+    "Jacob Kelley <jakie8@gmail.com>"
+  ],
+  "description": "Norm a Savage - OVO Norm",
+  "main": "index.html",
+  "keywords": [],
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "bootstrap": "3.3.2",
+    "knockout": "~3.3.0"
+  }
+}
